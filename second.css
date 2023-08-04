@@ -1,0 +1,21 @@
+body{
+    font-family:Lora;
+}
+h1 {
+    font-family: serif;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 1em;
+}
+#berkay{
+    border: 5px solid brown;
+    padding: 10px;
+    margin: 30px;
+}
+#deniz{ 
+    border: 5px solid slateblue;
+    margin: 100px;
+
+}
